@@ -1,0 +1,6 @@
+This is an azure file
+
+Created to demonstrate the working of git
+
+
+
